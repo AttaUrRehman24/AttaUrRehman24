@@ -28,16 +28,10 @@ With over a decade of experience, I specialize in bridging the gap between robus
 
 ---
 
-### 📊 Engineering Stats
-![Atta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AttaUrRehman24&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AttaUrRehman24&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=ffffff)
-
----
-
 ### 🤝 Let's Connect
 * **LinkedIn:** [linkedin.com/in/atta-ur-rehman-software-engineer](https://www.linkedin.com/in/atta-ur-rehman-software-engineer)
 * **Email:** [iamatta24@gmail.com](mailto:iamatta24@gmail.com)
 * **Portfolio:** [attarehman.com](https://www.attarehman.com)
 
 ---
-*“I take complete ownership of everything I work on—from architecture decisions to production stability.”*
+*“I take complete ownership of everything I work from architecture decisions to production stability.”*
