@@ -1,5 +1,5 @@
 # Atta Ur Rehman
-**Full Software Engineer | AI Architect**
+**Full Stack Software Engineer | AI Architect | Founder of [Devoun](https://www.devoun.com/)**
 
 With over a decade of experience, I specialize in bridging the gap between robust software architecture and cutting-edge AI. I lead engineering teams and ship scalable products for US startups and global enterprises, focusing on **Agentic AI**, **RAG pipelines**, and **Full-Stack Ecosystems**.
 
@@ -32,6 +32,7 @@ With over a decade of experience, I specialize in bridging the gap between robus
 * **LinkedIn:** [linkedin.com/in/atta-ur-rehman-software-engineer](https://www.linkedin.com/in/atta-ur-rehman-software-engineer)
 * **Email:** [iamatta24@gmail.com](mailto:iamatta24@gmail.com)
 * **Portfolio:** [attarehman.com](https://www.attarehman.com)
+* **Company:** [Devoun](https://www.devoun.com/), AI agents and custom software ([GitHub](https://github.com/devoun-official))
 
 ---
 *“I take complete ownership of everything I work from architecture decisions to production stability.”*
