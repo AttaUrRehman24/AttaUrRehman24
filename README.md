@@ -1,7 +1,7 @@
 # Atta Ur Rehman
 **Full Stack Software Engineer | AI Architect | Founder of [Devoun](https://www.devoun.com/)**
 
-With over a decade of experience, I specialize in bridging the gap between robust software architecture and cutting-edge AI. I lead engineering teams and ship scalable products for US startups and global enterprises, focusing on **Agentic AI**, **RAG pipelines**, and **Full-Stack Ecosystems**.
+With 14+ years of experience, I specialize in bridging the gap between robust software architecture and cutting-edge AI. I lead engineering teams and ship scalable products for US startups and global enterprises, focusing on **Agentic AI**, **RAG pipelines**, and **Full-Stack Ecosystems**.
 
 ---
 
@@ -25,6 +25,20 @@ With over a decade of experience, I specialize in bridging the gap between robus
 * **Frontend:** React, Next.js, TypeScript, Angular.
 * **Infrastructure:** AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD.
 * **Databases:** PostgreSQL, MongoDB, Redis, Pinecone (Vector DBs).
+
+---
+
+### 🧰 Open Source
+* **[nextjs-vps-starter](https://github.com/devoun-official/nextjs-vps-starter):** self-host Next.js on any VPS with Docker, automatic HTTPS (Traefik), a free nginx page cache and deploy on push. The setup behind devoun.com and attarehman.com.
+
+---
+
+### ✍️ Writing
+* [Your AI-built app works in the demo. Here is what breaks first with real users](https://www.attarehman.com/blog/ai-built-app-production-what-breaks-first)
+* [What a fractional CTO actually does in the first 30 days](https://www.attarehman.com/blog/fractional-cto-first-30-days)
+* [The 4 rules I never break when an AI agent can spend money](https://www.attarehman.com/blog/ai-agent-safety-rules-that-move-money)
+* [Why I moved my Next.js sites from Vercel to one VPS](https://www.attarehman.com/blog/self-hosting-nextjs-on-a-vps)
+* More at [attarehman.com/blog](https://www.attarehman.com/blog)
 
 ---
 
