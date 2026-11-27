@@ -29,11 +29,13 @@ With 14+ years of experience, I specialize in bridging the gap between robust so
 ---
 
 ### 🧰 Open Source
+* **[mcp-lock](https://github.com/devoun-official/mcp-lock):** a lockfile for MCP servers. Pins every tool, prompt and resource your AI agent sees, flags hidden instructions, and fails CI when a server changes.
 * **[nextjs-vps-starter](https://github.com/devoun-official/nextjs-vps-starter):** self-host Next.js on any VPS with Docker, automatic HTTPS (Traefik), a free nginx page cache and deploy on push. The setup behind devoun.com and attarehman.com.
 
 ---
 
 ### ✍️ Writing
+* [Your MCP server can change after you approve it. I built a lockfile for that](https://www.attarehman.com/blog/mcp-servers-can-change-after-you-approve-them)
 * [Your AI-built app works in the demo. Here is what breaks first with real users](https://www.attarehman.com/blog/ai-built-app-production-what-breaks-first)
 * [What a fractional CTO actually does in the first 30 days](https://www.attarehman.com/blog/fractional-cto-first-30-days)
 * [The 4 rules I never break when an AI agent can spend money](https://www.attarehman.com/blog/ai-agent-safety-rules-that-move-money)
